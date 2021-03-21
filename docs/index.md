@@ -79,7 +79,7 @@ https://github.com/Kejdzuuu/rejestrator_jazdy_rowerzysty/">na GitHubie</a>, do k
 <ul>
   <li>
     Wymagania:
-    <ul><li>Microsoft Office 365 (Word/Excel) / IBM Rational DOORS?</li></ul>
+    <ul><li>Microsoft Office 365 (Word/Excel)</li></ul>
   </li>
   <li>
     Modelowanie:
@@ -114,7 +114,6 @@ https://github.com/Kejdzuuu/rejestrator_jazdy_rowerzysty/">na GitHubie</a>, do k
     <ul>
       <li>Microsoft Office 365 (Word) / Sharepoint</li>
       <li>GitHub Pages</li>
-      <li></li>
     </ul>
   </li>
   <li>
