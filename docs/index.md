@@ -2,13 +2,13 @@
 layout: default
 ---
 <h1>Infrastruktura projektu</h1>
-<a href="InfrastrukturaProjektu.pdf">InfrastrukturaProjektu.pdf</a>
 
 <h2>Opis projektu</h2>
-<p>“Bikecorder” to rejestrator jazdy dla rowerzysty. Jest to kamera z wbudowanym akumulatorem przesyłająca obraz bezpośrednio do smartfona.</p>
+<p>“Bikecorder” to rejestrator jazdy dla rowerzysty. Jest to kamera montowana na kierownicy, z wbudowanym akumulatorem, przesyłająca obraz bezpośrednio do smartfona. Dzięki aplikacji na telefonie, można nagrać swój przejazd rowerowy i zapisać go na dysku.</p>
+<p>Przeprowadziliśmy ankietę wśród 2000 rowerzystów i 60% z nich narzeka na kłopotliwe kopiowanie filmów z karty pamięci, a co trzeci chciałby, aby jego kamera nie była ładowana kablem. W tym celu powstał Bikecorder z bezprzewodowym przesyłaniem obrazu i ładowaniem indukcyjnym.</p>
 
 <h2>Interesariusze i użytkownicy<h2>
-<p>TBD</p>
+<p>Produkt skierowany jest do osób chętnie korzystających z roweru. Dzięki niemu można zmontować sobie na pamiątkę film z podróży wakacyjnej. Może również pomóc w ustaleniu sprawcy potrącenia lub innego, niebezpiecznego wykroczenia drogowego.</p>
 
 <h2>Zespół</h2>
 <table>
