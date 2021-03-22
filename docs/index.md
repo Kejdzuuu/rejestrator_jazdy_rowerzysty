@@ -21,7 +21,6 @@ layout: default
   <ul>
     <li>dr inż. Krzysztof Bikonis - Adiunkt, Katedra Systemów Geoinformatycznych, Wydział Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej, kierownik projektu</li>
     <li>Społeczność “Nagrywamy i jeździmy” - grupa ludzi zajmująca się w wolnym czasie jazdą na rowerze, po usłyszeniu o naszym projekcie zaoferowali pomoc w testowaniu i sugestiach.</li>
-    <li>Użytkownicy końcowi</li>
     <li>Okazjonalni rowerzyści, chcący mieć szybki i łatwy dostęp do nagranego materiału na swoim telefonie</li>
     <li>Streamerzy/Youtuberzy, którzy muszą nadawać obraz na żywo podczas jazdy</li>
     <li>Starsi ludzie, którzy nie chcą podłączać kabli do kamery (z wiekiem precyzja ruchów spada), a chcą cieszyć się filmami, a w domu odłożyć kamerę</li>
