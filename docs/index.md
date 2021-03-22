@@ -5,7 +5,16 @@ layout: default
 
 <h2>Opis projektu</h2>
 <p>“Bikecorder” to rejestrator jazdy dla rowerzysty. Jest to kamera montowana na kierownicy, z wbudowanym akumulatorem, przesyłająca obraz bezpośrednio do smartfona. Dzięki aplikacji na telefonie, można nagrać swój przejazd rowerowy i zapisać go na dysku.</p>
-<p>Przeprowadziliśmy ankietę wśród 2000 rowerzystów i 60% z nich narzeka na kłopotliwe kopiowanie filmów z karty pamięci, a co trzeci chciałby, aby jego kamera nie była ładowana kablem. W tym celu powstał Bikecorder z bezprzewodowym przesyłaniem obrazu i ładowaniem indukcyjnym.</p>
+<p>Przeprowadziliśmy ankietę wśród 2000 nieprofesjonalnych rowerzystów i 60% z nich narzeka na kłopotliwe kopiowanie filmów z karty pamięci, a co trzeci chciałby, aby jego kamera nie była ładowana kablem. W tym celu powstał Bikecorder z bezprzewodowym przesyłaniem obrazu i ładowaniem indukcyjnym. Użytkownik będzie miał dostęp do nagranego materiału od razu, bez szukania odpowiedniego przewodu. Jest to szczególnie ważne dla osób starszych - w przypadku wypadku można szybko ustalić co się stało oglądając materiał, ładowanie będzie też o wiele łatwiejsze - wystarczy odłożyć Bikecorder na stację ładującą. Urządzenie docenią też YouTuberzy/streamerzy, którzy muszą przekazywać obraz na żywo.</p>
+<p>Urządzenie będzie początkowo działało tylko z telefonami z systemem Android, prace nad innymi systemami zostaną rozpoczęte po wydaniu na rynek pierwszej funkcjonalnej wersji.</p>
+<p>Interesariuszami projektu są dr inż. Krzysztof Bikonis z Katedry Systemów Geoinformatycznych, wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej, a także tzw. “power userzy” ze społeczności “Nagrywamy i jeździmy” - ludzie intensywnie uprawiający kolarstwo i korzystający z kamer innych firm.</p>
+<p>Zostały wyznaczone trzy terminy/milestone’y:
+  <ul>
+    <li>01.05.2021 r. - zrealizowanie komunikacji Bikecorder - Android</li>
+    <li>01.06.2021 r. - pierwszy działający prototyp, początek testów terenowych</li>
+    <li>01.10.2021 r. - finalny wygląd urządzenia, ukończenie 90% zadań</li>
+  </ul>
+</p>
 
 <h2>Interesariusze i użytkownicy</h2>
 <p>Produkt skierowany jest do osób chętnie korzystających z roweru. Dzięki niemu można zmontować sobie na pamiątkę film z podróży wakacyjnej. Może również pomóc w ustaleniu sprawcy potrącenia lub innego, niebezpiecznego wykroczenia drogowego.</p>
