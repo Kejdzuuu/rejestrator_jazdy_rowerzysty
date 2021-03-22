@@ -17,7 +17,16 @@ layout: default
 </p>
 
 <h2>Interesariusze i użytkownicy</h2>
-<p>Produkt skierowany jest do osób chętnie korzystających z roweru. Dzięki niemu można zmontować sobie na pamiątkę film z podróży wakacyjnej. Może również pomóc w ustaleniu sprawcy potrącenia lub innego, niebezpiecznego wykroczenia drogowego.</p>
+<p>
+  <ul>
+    <li>dr inż. Krzysztof Bikonis - Adiunkt, Katedra Systemów Geoinformatycznych, Wydział Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej, kierownik projektu</li>
+    <li>Społeczność “Nagrywamy i jeździmy” - grupa ludzi zajmująca się w wolnym czasie jazdą na rowerze, po usłyszeniu o naszym projekcie zaoferowali pomoc w testowaniu i sugestiach.</li>
+    <li>Użytkownicy końcowi</li>
+    <li>Okazjonalni rowerzyści, chcący mieć szybki i łatwy dostęp do nagranego materiału na swoim telefonie</li>
+    <li>Streamerzy/Youtuberzy, którzy muszą nadawać obraz na żywo podczas jazdy</li>
+    <li>Starsi ludzie, którzy nie chcą podłączać kabli do kamery (z wiekiem precyzja ruchów spada), a chcą cieszyć się filmami, a w domu odłożyć kamerę</li>
+  </ul>
+</p>
 
 <h2>Zespół</h2>
 <table>
