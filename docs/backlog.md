@@ -7,7 +7,7 @@ layout: default
 <p>“Bikecorder” to rejestrator jazdy dla rowerzysty. Jest to kamera montowana na kierownicy, z wbudowanym akumulatorem, przesyłająca obraz bezpośrednio do smartfona. Dzięki aplikacji na telefonie, można nagrać swój przejazd rowerowy i zapisać go na dysku</p>
 
 <h2>Persony</h2>
-<img src="docs/pics/kowalski.png" />
+<img src="docs/pics/kowalski.PNG" />
 <ul>
     <li>Jan Kowalski</li>
     <li>40 lat</li>
@@ -47,13 +47,13 @@ layout: default
 <p>Po powrocie do domu Jan ma wszystkie filmy w chmurze, bo telefon udostępniał je w tle podczas jazdy. Dzięki temu może łatwo zarządzać nimi na komputerze.</p>
 
 <h2>Backlog produktu</h2>
-<img src="./pics/backlog.png" />
+<img src="./pics/backlog.PNG" />
 
 <h2>Kryteria akceptacji</h2>
-<div><img src="./docs/pics/element1.png"/><div>
-<div><img src="pics/element2.png"/><div>
-<div><img src="pics/element3.png"/><div>
-<div><img src="pics/element4.png"/><div>
+<div><img src="./docs/pics/element1.PNG"/><div>
+<div><img src="pics/element2.PNG"/><div>
+<div><img src="pics/element3.PNG"/><div>
+<div><img src="pics/element4.PNG"/><div>
 
 <h2>Definicja ukończenia</h2>
 <ul>
@@ -61,7 +61,7 @@ layout: default
     <li>Jeśli element wymagał kodowania:</li>
         <ul>
             <li>Napisano kod</li>
-            <li>Naapisano testy</li>
+            <li>Napisano testy</li>
             <li>Kod przetestowano</li>
             <li>Kod przeszedł peer review</li>
             <li>Kod i testy umieszczono w repozytorium</li>
