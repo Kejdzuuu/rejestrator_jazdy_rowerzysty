@@ -3,11 +3,11 @@ layout: default
 ---
 <h1>Backlog produktu</h1>
 
-<h2>Przypomnienie produktu</h2>\
+<h2>Przypomnienie produktu</h2>
 <p>“Bikecorder” to rejestrator jazdy dla rowerzysty. Jest to kamera montowana na kierownicy, z wbudowanym akumulatorem, przesyłająca obraz bezpośrednio do smartfona. Dzięki aplikacji na telefonie, można nagrać swój przejazd rowerowy i zapisać go na dysku</p>
 
 <h2>Persony</h2>
-<img src="pics/kowalski.png" />
+<img src="docs/pics/kowalski.png" />
 <ul>
     <li>Jan Kowalski</li>
     <li>40 lat</li>
@@ -47,10 +47,10 @@ layout: default
 <p>Po powrocie do domu Jan ma wszystkie filmy w chmurze, bo telefon udostępniał je w tle podczas jazdy. Dzięki temu może łatwo zarządzać nimi na komputerze.</p>
 
 <h2>Backlog produktu</h2>
-<img src="pics/backlog.png" />
+<img src="./pics/backlog.png" />
 
 <h2>Kryteria akceptacji</h2>
-<div><img src="pics/element1.png"/><div>
+<div><img src="./docs/pics/element1.png"/><div>
 <div><img src="pics/element2.png"/><div>
 <div><img src="pics/element3.png"/><div>
 <div><img src="pics/element4.png"/><div>
