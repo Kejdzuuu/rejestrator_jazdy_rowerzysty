@@ -9,6 +9,7 @@ layout: default
 <h2>Oszacowanie rozmiaru backlogu produktu</h2>
 <p>Oszacowanie zostało wykonane metodą Planning Poker. Ponieważ jest nas tylko dwóch, było to szybkie i bezbolesne, po jednej rundzie i krótkiej dyskusji dochodziliśmy do porozumienia.</p>
 <img src="pics/poker.PNG"/>
+<img src="pics/poker2.PNG"/>
 
 <h2>Założenia i dobór zakresu sprintu </h2>
 <p>Pojemność zespołu: ok. 15h<br />
