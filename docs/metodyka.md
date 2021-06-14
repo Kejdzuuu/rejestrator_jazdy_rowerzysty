@@ -25,7 +25,6 @@ layout: default
 <ul>
   <li>Rozmiar - nasz zespół składa się z dwóch osób, a projekt będzie realizowany przez ponad 6 miesięcyRozmiar - nasz zespół składa się z dwóch osób, a projekt będzie realizowany przez ponad 6 miesięcy</li>
   <li>Krytyczność - w przypadku błędu w oprogramowaniu, istnieje mała szansa na spowodowanie strat materialnych u klienta (np. jeśli film miałby być dowodem w sądzie, a nie nagrał się poprawnie).</li>
-  <li>Krytyczność - w przypadku błędu w oprogramowaniu, klient straci tylko na wygodzie</li>
   <li>Dynamika - nie przewidujemy zmian wymagań, więc zakładamy, że jeśli pojawią się jakieś zmiany, to obsłużymy ponad 80% z nich</li>
   <li>Osoby - uważamy, że w naszym zespole znajdują się wyłącznie osoby o poziomach świadomości metodyki 2. lub wyższych</li>
   <li>Kultura - w naszym zespole znajduje się jedna osoba skłonna do chaosu i jedna osoba preferująca porządek</li>
@@ -65,6 +64,8 @@ layout: default
 
 <h4>Kultura - podejście zwinne</h4>
 <p>W przypadku tak małej liczby osób, które już się znają, lepiej sprawdzi się podejście “zakładu rzemieślniczego”. Nie ma potrzeby definowania wszystkich zasad i procedur.</p>
+
+<img src="pics/metodyka2.PNG" />
 
 <h2>Model dostarczania produktu końcowego projektu</h2>
 <p>Model przyrostowy - Kanban</p>
